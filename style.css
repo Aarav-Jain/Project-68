@@ -1,0 +1,14 @@
+#video{
+   text-align: center;
+    height: 500px;
+    width: 1280px;
+}
+
+#marqueeStyle{
+    font-size: 25px; 
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
